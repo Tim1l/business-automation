@@ -2,7 +2,11 @@
 
 **Client self-service · Automated calculations · Notifications · Administrative workflows**
 
-I build custom Python systems that turn recurring business operations into connected workflows. This case shows a client project covering data collection, account information, settlements, notifications, and administration through Telegram.
+I develop custom Python automation for businesses across industries and sizes, from internal tools for small teams to operational workflows for large digital products. My work covers data collection, calculations, reporting, integrations, and client and administrator workflows.
+
+Beyond this case, my experience includes sole responsibility for AI engineering on a confidential product with a **design target of 5 million monthly active users (MAU)**.
+
+The case below shows a client project covering account information, settlements, notifications, and administration through Telegram.
 
 [Discuss a project on Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) · [LinkedIn](https://www.linkedin.com/in/tim-izmailov-a53524283/)
 
@@ -65,14 +69,15 @@ The production code, customer data, and business-specific configuration remain p
 
 ## Work With Me
 
-I can help with similar operational problems:
+I work with businesses across sectors on automation projects of different sizes and complexity:
 
 - Client portals and Telegram interfaces for recurring account requests.
 - Calculation, reporting, and notification workflows.
 - Integration of existing data sources into a shared business service.
 - Custom Python backends and administrative tools.
+- AI-assisted workflows and integrations for defined business needs.
 - Adaptation, deployment, and ongoing support of a business automation system.
 
-A useful starting point is one recurring process: who performs it, where the data comes from, and what result the customer or administrator needs. I can help turn that process into a scoped implementation with clear deliverables.
+A project can address one repetitive task or a broader operating process. A useful starting point is who performs the work, where the data comes from, and what result the customer or administrator needs. I can help turn those requirements into a scoped implementation with clear deliverables and capacity targets.
 
 [Send a project brief on Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) · [Connect on LinkedIn](https://www.linkedin.com/in/tim-izmailov-a53524283/)
