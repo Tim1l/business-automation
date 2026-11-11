@@ -1,3 +1,5 @@
+![Conceptual illustration of business operations automation](images/business-automation-cover-v1.png)
+
 # Business Automation with Python
 
 **Client self-service · Automated calculations · Notifications · Administrative workflows**
@@ -27,6 +29,8 @@ I developed a system that brings these recurring operations into a shared servic
 The client can access account-related actions from one place: add funds, request a withdrawal, view rakeback, link an account, and get help. The administrator has a separate set of operational controls.
 
 ## Workflow in Action
+
+![Manual operations and the corresponding automated workflows](images/automation-before-after.svg)
 
 | Previous manual process | Implemented capability |
 | --- | --- |

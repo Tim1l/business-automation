@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="720" viewBox="0 0 1440 720" role="img" aria-labelledby="title description">
+  <title id="title">From recurring manual work to business automation</title>
+  <desc id="description">Conceptual comparison of manual answers, notifications and settlement calculations with client self-service and automated operational workflows.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#15232e"/>
+      <stop offset="1" stop-color="#08151b"/>
+    </linearGradient>
+    <linearGradient id="result" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#16363d"/>
+      <stop offset="1" stop-color="#10262f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="720" rx="24" fill="url(#background)"/>
+  <rect x="0.5" y="0.5" width="1439" height="719" rx="23.5" fill="none" stroke="#36515f"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="72" y="81" fill="#f1f7fa" font-size="38" font-weight="700">Less repeated work. More operational control.</text>
+    <text x="74" y="123" fill="#a9c0ca" font-size="23">One business process, viewed from the client and administrator side.</text>
+    <text x="96" y="190" fill="#bdc6d0" font-size="19" font-weight="700" letter-spacing="2.5">BEFORE</text>
+    <text x="816" y="190" fill="#83e7d2" font-size="19" font-weight="700" letter-spacing="2.5">WITH AUTOMATION</text>
+
+    <g fill="#192833" stroke="#405461">
+      <rect x="72" y="218" width="576" height="106" rx="17"/>
+      <rect x="72" y="345" width="576" height="106" rx="17"/>
+      <rect x="72" y="472" width="576" height="106" rx="17"/>
+    </g>
+    <g fill="url(#result)" stroke="#42766f">
+      <rect x="792" y="218" width="576" height="106" rx="17"/>
+      <rect x="792" y="345" width="576" height="106" rx="17"/>
+      <rect x="792" y="472" width="576" height="106" rx="17"/>
+    </g>
+
+    <g fill="#f0f5f7" font-size="27" font-weight="700">
+      <text x="99" y="260">Individual questions</text>
+      <text x="99" y="387">Manual messages</text>
+      <text x="99" y="514">Weekly calculations</text>
+    </g>
+    <g fill="#b2c3cd" font-size="20">
+      <text x="99" y="296">Current figures requested from an administrator</text>
+      <text x="99" y="423">Recurring notices written and sent individually</text>
+      <text x="99" y="550">Separate settlement work for participants</text>
+    </g>
+    <g fill="#c5f2e8" font-size="27" font-weight="700">
+      <text x="819" y="260">Client self-service</text>
+      <text x="819" y="387">Automated notifications</text>
+      <text x="819" y="514">Shared settlement workflows</text>
+    </g>
+    <g fill="#bed3d9" font-size="20">
+      <text x="819" y="296">Account information available through the bot</text>
+      <text x="819" y="423">Routine updates delivered within the workflow</text>
+      <text x="819" y="550">Consistent calculations and admin summaries</text>
+    </g>
+
+    <g fill="#18323d" stroke="#476c78">
+      <circle cx="720" cy="271" r="25"/>
+      <circle cx="720" cy="398" r="25"/>
+      <circle cx="720" cy="525" r="25"/>
+    </g>
+    <g fill="none" stroke="#8ce2d1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M709 271H731M724 264L731 271 724 278"/>
+      <path d="M709 398H731M724 391L731 398 724 405"/>
+      <path d="M709 525H731M724 518L731 525 724 532"/>
+    </g>
+
+    <rect x="72" y="612" width="1296" height="51" rx="13" fill="#112933" stroke="#375965"/>
+    <text x="720" y="645" text-anchor="middle" fill="#d1e7e9" font-size="22">Prepaid &amp; postpaid workflows · Client and admin interfaces</text>
+    <text x="720" y="695" text-anchor="middle" fill="#809da9" font-size="18">Conceptual workflow overview</text>
+  </g>
+</svg>
