@@ -1,87 +1,54 @@
-![Conceptual illustration of business operations automation](images/business-automation-cover-v1.png)
+![A workflow finding a simpler route from task to result](images/automation-systems-v2.gif)
 
-# Business Automation with Python
+# Business Optimization & Custom Software
 
-**Client self-service · Automated calculations · Notifications · Administrative workflows**
+**Tell me what slows your business down. I map the workflow and build the systems it needs.**
 
-I develop custom Python automation for businesses across industries and sizes, from internal tools for small teams to operational workflows for large digital products. My work covers data collection, calculations, reporting, integrations, and client and administrator workflows.
+The problem might be repeated work, scattered information, missing functionality, a process full of workarounds, or an idea that needs its own software.
 
-Beyond this case, my experience includes sole responsibility for AI engineering on a confidential product with a **design target of 5 million monthly active users (MAU)**.
+I help businesses across industries turn these problems into practical improvements: simpler workflows, connected tools and custom applications built around how the business operates.
 
-The case below shows a client project covering account information, settlements, notifications, and administration through Telegram.
+[Remove bottlenecks](#remove-bottlenecks) · [Build missing tools](#build-the-missing-tools) · [Connect your business](#connect-the-business)
 
-[Discuss a project on Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) · [LinkedIn](https://www.linkedin.com/in/tim-izmailov-a53524283/)
+## Remove Bottlenecks
 
-## The Business Problem
+Look at how work moves between people, information and tools. Find the repeated steps, delays and unnecessary complexity, then choose the changes worth making first.
 
-A poker-club operator was supporting around **50 players with activity around the clock**. Players needed up-to-date figures, the administrator answered their questions individually, and notifications were written manually.
+The solution can combine workflow redesign, automation and improvements to existing systems. We agree on what a better process should do and how to check the result.
 
-Weekly settlement involved calculations for players, agents, and the operator. According to the client, this work occupied **an entire Monday**. Increasing the number of players would also increase the amount of manual administration.
+## Build the Missing Tools
 
-I developed a system that brings these recurring operations into a shared service with dedicated client and administrator interfaces. Both prepaid and postpaid bot implementations are complete and ready for customer onboarding.
+Turn a business need into working software: a custom application, internal tool, interface, dashboard, backend or service.
 
-## The Client Interface
+From requirements and design through implementation and review, the software is shaped around its users, operating rules and practical constraints.
 
-![Telegram client interface showing funding, withdrawals, rakeback, account linking, help, and administrator access](images/telegram-client-en-v1.png)
+## Connect the Business
 
-*The custom Telegram interface. Identifying details have been anonymized and the visible text translated into English for this portfolio presentation.*
+Bring existing applications, data sources and operating processes into a connected workflow. Make information available where it is needed and let actions move between the tools involved.
 
-The client can access account-related actions from one place: add funds, request a withdrawal, view rakeback, link an account, and get help. The administrator has a separate set of operational controls.
+This can include integrations, shared data flows, reporting and automation across departments or services, with a useful way for your team to see and manage the work.
 
-## Workflow in Action
+## From Problem to Working Solution
 
-![Manual operations and the corresponding automated workflows](images/automation-before-after.svg)
+![Understanding the workflow, building the improvement, and verifying and handing over the solution](images/workflow-optimization-v2.svg)
 
-| Previous manual process | Implemented capability |
-| --- | --- |
-| Players ask the administrator for their current figures | Client access to account information and calculations through the bot |
-| The administrator writes recurring notifications individually | Automated notifications within the operational workflow |
-| Weekly calculations are prepared separately for players, agents, and the operator | Automated settlement calculations and administrative summaries |
-| Prepaid and postpaid operations require different handling | Dedicated workflows for both operating models |
-| More players mean more repeated administrative work | A shared service with configurable club workflows |
+We agree on the goal, workflow and first scope, then build, review and refine the solution. You receive the working software or improvements and practical operating information.
 
-The purpose is to let clients get routine information directly and give the operator a consistent place to manage the business. The implementation removes repeated work from the process and provides a foundation for expansion.
+<details>
+<summary><strong>Show a better route</strong></summary>
 
-## What I Built
+![A visual metaphor showing a shorter route through a business workflow](images/automation-shortcut-v2.gif)
 
-- **Client and administrator interfaces:** Telegram workflows for account information, operations, settings, and support.
-- **Business calculations:** player balances, rakeback, and settlement logic for the participants involved in running a club.
-- **Data integration:** collection of operational information from the existing source application and storage in a shared database.
-- **Notifications:** automated delivery of routine operational messages.
-- **Two operating models:** prepaid and postpaid bots with workflows suited to each model.
-- **Server deployment:** a shared Python service supporting separate club interfaces and configurations.
+A visual metaphor for simplifying a workflow.
 
-### External System Integration
+</details>
 
-The automation works with information from an existing application. These screens show the source environment and the types of member statistics involved.
+The technology follows the job: custom code, existing platforms, APIs, databases and cloud integrations, including **Google Cloud** and **AWS** where appropriate.
 
-| Club interface | Member statistics |
-| --- | --- |
-| ![Redacted third-party club interface](images/club-interface-redacted-v1.png) | ![Redacted third-party member statistics screen](images/member-details-redacted-v1.png) |
+[See an operations automation example](examples/operations-automation.md)
 
-*These are screenshots of the third-party source application, PPPoker. They illustrate the integration context; that application's interface was not developed by me. Club details, member identities, and values have been redacted.*
+## Start with What You Want to Improve
 
-## My Contribution
+Describe what you want to improve, the tools involved and the result you need. We can define a first paid milestone with clear deliverables and review criteria.
 
-I owned the work from requirements to implementation: translating the client's operating rules into workflows, developing the bots and data integration, implementing calculations, connecting the database, and preparing server deployment and handover.
-
-**Stack:** Python · aiogram · PostgreSQL · Linux server deployment
-
-**Delivery stage:** both bot implementations are complete. Customer onboarding and the transfer of day-to-day operations are the next stage.
-
-The production code, customer data, and business-specific configuration remain private. This repository presents the completed development work and its business context.
-
-## Work With Me
-
-I work with businesses across sectors on automation projects of different sizes and complexity:
-
-- Client portals and Telegram interfaces for recurring account requests.
-- Calculation, reporting, and notification workflows.
-- Integration of existing data sources into a shared business service.
-- Custom Python backends and administrative tools.
-- AI-assisted workflows and integrations for defined business needs.
-- Adaptation, deployment, and ongoing support of a business automation system.
-
-A project can address one repetitive task or a broader operating process. A useful starting point is who performs the work, where the data comes from, and what result the customer or administrator needs. I can help turn those requirements into a scoped implementation with clear deliverables and capacity targets.
-
-[Send a project brief on Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) · [Connect on LinkedIn](https://www.linkedin.com/in/tim-izmailov-a53524283/)
+[Discuss a project on Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) · [Connect on LinkedIn](https://www.linkedin.com/in/tim-izmailov-a53524283/)

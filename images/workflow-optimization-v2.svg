@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
+  <title id="title">Make the workflow work for your business</title>
+  <desc id="desc">A general service workflow: understand the current process and its people, data and tools; identify bottlenecks and priorities; develop a working automation or integration; then review against agreed checks and provide a practical handover. The intended outcomes are less routine work, useful information and connected tools.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172b38"/>
+      <stop offset="1" stop-color="#101b26"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="80" y1="204" x2="965" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8eb6bd"/>
+      <stop offset=".34" stop-color="#f0bc7a"/>
+      <stop offset="1" stop-color="#75d4c4"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M2 2 8 5 2 8" fill="none" stroke="#a5c9c5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect x=".5" y=".5" width="1279" height="559" rx="18" fill="url(#background)" stroke="#314753"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="50" fill="#9db5bf" font-size="13" letter-spacing="2.2">AUTOMATION / INTEGRATION / OPTIMIZATION</text>
+    <text x="72" y="108" fill="#f0f3ef" font-size="40" letter-spacing="-.8">Make the workflow work for your business.</text>
+    <text x="72" y="147" fill="#b9c9cf" font-size="21">Understand the process. Build the right change. Check the result.</text>
+
+    <g fill="none" stroke-linecap="round" stroke-width="2">
+      <path d="M100 204H355" stroke="url(#flow)" marker-end="url(#arrow)"/>
+      <path d="M395 204H650" stroke="url(#flow)" marker-end="url(#arrow)"/>
+      <path d="M690 204H945" stroke="url(#flow)" marker-end="url(#arrow)"/>
+    </g>
+    <g font-size="12" font-weight="bold" text-anchor="middle">
+      <circle cx="80" cy="204" r="17" fill="#172b38" stroke="#8eb6bd" stroke-width="1.5"/>
+      <text x="80" y="208" fill="#c4dce0">01</text>
+      <circle cx="375" cy="204" r="17" fill="#172b38" stroke="#f0bc7a" stroke-width="1.5"/>
+      <text x="375" y="208" fill="#f6cf9b">02</text>
+      <circle cx="670" cy="204" r="17" fill="#172b38" stroke="#9cd3b6" stroke-width="1.5"/>
+      <text x="670" y="208" fill="#c3e5d2">03</text>
+      <circle cx="965" cy="204" r="17" fill="#172b38" stroke="#75d4c4" stroke-width="1.5"/>
+      <text x="965" y="208" fill="#b5eee1">04</text>
+    </g>
+
+    <g fill="#edf2ee" font-size="32" letter-spacing="-.5">
+      <text x="72" y="258">Current</text>
+      <text x="72" y="296">process</text>
+      <text x="367" y="258">Bottlenecks</text>
+      <text x="367" y="296">&amp; priorities</text>
+      <text x="662" y="258">Working</text>
+      <text x="662" y="296">solution</text>
+      <text x="957" y="258">Review</text>
+      <text x="957" y="296">&amp; handover</text>
+    </g>
+    <g fill="#a9bfc8" font-size="20">
+      <text x="72" y="339">People, data, tools</text>
+      <text x="367" y="339">Repeated steps</text>
+      <text x="367" y="369">Operational friction</text>
+      <text x="662" y="339">Automation</text>
+      <text x="662" y="369">Integrations</text>
+      <text x="957" y="339">Agreed checks</text>
+      <text x="957" y="369">Practical handover</text>
+    </g>
+
+    <path d="M72 432H1208" stroke="#36505c"/>
+    <text x="72" y="465" fill="#8da8b5" font-size="13" letter-spacing="1.7">THE OUTCOMES WE DESIGN FOR</text>
+    <g fill="#d7e7e0" font-size="24">
+      <circle cx="78" cy="512" r="3" fill="#75d4c4"/>
+      <text x="94" y="520">Less routine work</text>
+      <circle cx="471" cy="512" r="3" fill="#9cd3b6"/>
+      <text x="487" y="520">Useful information</text>
+      <circle cx="864" cy="512" r="3" fill="#f0bc7a"/>
+      <text x="880" y="520">Connected tools</text>
+    </g>
+  </g>
+</svg>
